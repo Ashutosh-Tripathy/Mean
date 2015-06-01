@@ -1,0 +1,23 @@
+// To initialzie node.
+npm init
+//install jade
+npm install --save express jade
+// initiate git
+create a file with .gitgnore file extention
+ //git status
+ git status
+ //add into git
+ git add -A
+ //first commit
+ git commit -m "First Commit"
+ //install bower
+ npm install bower -g --save-dev
+ // init bower
+ bower intall jquery --save
+ bower install toastr --save
+install angular --save
+bower install angular angular-resource angular-route --save
+//just to watch changes and restart server
+npm install nodemon -g
+//start server
+nodemon server.js
