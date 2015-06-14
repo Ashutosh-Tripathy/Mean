@@ -21,3 +21,13 @@ bower install angular angular-resource angular-route --save
 npm install nodemon -g
 //start server
 nodemon server.js
+//git commit origin/master problem
+http://stackoverflow.com/questions/5772192/git-how-can-i-reconcile-detached-head-with-master-origin
+// commit changed files
+git commit -a
+//vim
+:q to quit (short for :quit)
+:q! to quit without saving (short for :quit!)
+:wq to write and quit (think write and quit)
+:x to write and quit (shorter than :wq)
+:qa to quit all (short for :quitall)
